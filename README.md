@@ -359,3 +359,17 @@ In this work, we demonstrated the potential of GNNs to accelerate Homann flow si
 ---
 
 ## How to Cite Us
+
+**D. Rahmat Samii and M. Tembely, "Accelerating Thermal Homann Flow Simulation With Mesh-Based Graph Neural Networks," in IEEE Access, vol. 13, pp. 100271-100286, 2025, doi: 10.1109/ACCESS.2025.3577098.
+**
+```
+@ARTICLE{11025840,
+  author={Rahmat Samii, Dara and Tembely, Moussa},
+  journal={IEEE Access}, 
+  title={Accelerating Thermal Homann Flow Simulation With Mesh-Based Graph Neural Networks}, 
+  year={2025},
+  volume={13},
+  number={},
+  pages={100271-100286},
+  doi={10.1109/ACCESS.2025.3577098}}
+```
